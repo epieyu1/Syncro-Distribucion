@@ -1,8 +1,8 @@
-version: 2.0.0
+version: 2.0.2
 files:
-  - url: Syncro.Motos-2.0.0-arm64.dmg
-    sha512: W/cQX0J64lOYYV7hqHeJJL6fQKs3jfrCg2Y8tSC74ooLxR0SHoY2wS7U2A7LdRkLoiTLK0y0acdOxLpxEyn2RA==
-    size: 167567279
-path: Syncro.Motos-2.0.0-arm64.dmg
-sha512: W/cQX0J64lOYYV7hqHeJJL6fQKs3jfrCg2Y8tSC74ooLxR0SHoY2wS7U2A7LdRkLoiTLK0y0acdOxLpxEyn2RA==
-releaseDate: '2026-02-22T00:11:19.969Z'
+  - url: Syncro.Motos-2.0.2-arm64.dmg
+    sha512: CSO0wKdvwyiUepqkR8S1WFeEb4CpqvoZpbEzbshy4yRtTo3N7Mt+wBct44hXzBXSIPTPEfCYjR5bhKhWPiMwOw==
+    size: 172198361
+path: Syncro.Motos-2.0.2-arm64.dmg
+sha512: CSO0wKdvwyiUepqkR8S1WFeEb4CpqvoZpbEzbshy4yRtTo3N7Mt+wBct44hXzBXSIPTPEfCYjR5bhKhWPiMwOw==
+releaseDate: '2026-02-24T21:18:23.000Z'
