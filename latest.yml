@@ -1,8 +1,8 @@
-version: 2.0.3
+version: 2.0.4
 files:
-  - url: Syncro.Motos.Setup.2.0.3.exe
-    sha512: C8dlBB1GzHM5P7NBJjc/+oVkvNOXiTVxOXwOklH+6k2UxKwBFdY4cEl5heBusDzuH4XjS3CGplFMqUJMIFloow==
-    size: 256139311
-path: Syncro.Motos.Setup.2.0.3.exe
-sha512: C8dlBB1GzHM5P7NBJjc/+oVkvNOXiTVxOXwOklH+6k2UxKwBFdY4cEl5heBusDzuH4XjS3CGplFMqUJMIFloow==
-releaseDate: '2026-02-25T13:58:37.156Z'
+  - url: Syncro.Motos.Setup.2.0.4.exe
+    sha512: dXP1ur6esL2nXEE492AkNobMoWFVwUb/cN2M5Sa8U0Mgz6jXZYVVQQMJ2mtnFy/B6nhbxiVQ9fvSj/gFujEL4w==
+    size: 115505508
+path: Syncro.Motos.Setup.2.0.4.exe
+sha512: dXP1ur6esL2nXEE492AkNobMoWFVwUb/cN2M5Sa8U0Mgz6jXZYVVQQMJ2mtnFy/B6nhbxiVQ9fvSj/gFujEL4w==
+releaseDate: '2026-04-01T15:52:16.427Z'

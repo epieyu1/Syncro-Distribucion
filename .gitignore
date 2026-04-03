@@ -1,5 +1,19 @@
+# Syncro Motos Distribution - Git Exclusion Rules
 .DS_Store
-Syncro.Motos-*-arm64.dmg
-Syncro.Motos.Setup.*.exe
-latest-mac.yml
-latest.yml
+Thumbs.db
+
+# Binaries grandes — subir manualmente como GitHub Release assets
+*.dmg
+*.exe
+*.zip
+*.tar.gz
+
+# NOTA: *.blockmap y *.yml SÍ se incluyen en git.
+# Son archivos de metadatos pequeños que electron-updater necesita
+# para detectar nuevas versiones y aplicar actualizaciones diferenciales.
+
+# Archive & Build Folders
+_archive*/
+dist*/
+build/
+bin/
